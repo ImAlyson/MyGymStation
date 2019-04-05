@@ -1,0 +1,21 @@
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Desktop Application.exe.config
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Desktop Application.exe
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Desktop Application.pdb
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\obj\Debug\Desktop Application.csprojAssemblyReference.cache
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\obj\Debug\Desktop_Application.Form1.resources
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\obj\Debug\Desktop_Application.Properties.Resources.resources
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\obj\Debug\Desktop Application.csproj.GenerateResource.cache
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\obj\Debug\Desktop Application.csproj.CoreCompileInputs.cache
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\obj\Debug\Desktop Application.csproj.CopyComplete
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\obj\Debug\Desktop Application.exe
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\obj\Debug\Desktop Application.pdb
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+E:\Backup\TCC\MyGymStation\Desktop\Desktop Application\Desktop Application\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
